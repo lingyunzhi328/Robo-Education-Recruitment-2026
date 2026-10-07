@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.firecrawl/
+.venv/
+*.log
+build/
+install/
+log/
