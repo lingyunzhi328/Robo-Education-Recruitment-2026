@@ -53,6 +53,7 @@ python3 -m unittest discover -s tests -v
 2. ROS 官方网页反爬：改为读取同版本官方文档仓库源码，保持 Jazzy 的命令和接口一致。
 3. 教学环境与当前机器不同：把控制数学独立出来运行单测，在文档中明确真实 ROS 环境的课前验收步骤。
 4. 幻灯片导出：声明中文与代码字体，检查源文件结构、表格 editability 和逐页渲染，再导出 PDF。
+5. Git 换行转换：Git 将 ASCII 格式 PDF 判为文本，提示 LF 将被转为 CRLF。添加 `.gitattributes`，将 PDF、PPTX 标记为二进制，源码和 Markdown 统一 LF，避免克隆后破坏 PDF 的字节偏移。核对仓库 PDF 字节哈希与原文件一致。
 
 ### 多人如何维护
 
