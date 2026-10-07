@@ -15,7 +15,7 @@ interpreter/           mini-Scheme 源码、补充测试与运行说明
 
 ## 运行教学示例
 
-使用已验证的 Ubuntu 24.04 + ROS 2 Jazzy 环境，每个新终端加载：
+建议使用 Ubuntu 24.04 + ROS 2 Jazzy，并先执行文档中的课前环境验收。每个新终端加载：
 
 ```bash
 source /opt/ros/jazzy/setup.bash
