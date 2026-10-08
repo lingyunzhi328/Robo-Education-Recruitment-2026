@@ -12,7 +12,7 @@
 - `python -m unittest discover -s tests -v` 检查教学用控制数学，包括到点停止、角度跨界、速度限幅和简化运动模型到点。
 - Python 源码做语法编译检查。
 - ROS 2 Jazzy 的命令和消息字段已与官方教程及同版本源码核对。
-- 当前 Windows 环境未安装 ROS 2。本项目没有把纯 Python 测试记作真实 ROS 通信测试，GUI 与 ROS 节点的完整联调列为课前检查。
+- 当前 Windows 环境未安装 ROS 2，GUI 与节点通信将在课前统一环境中联调。
 
 ## 课前应由主讲和助教共同完成
 

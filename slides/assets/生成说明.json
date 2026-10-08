@@ -1,0 +1,26 @@
+{
+  "mode": "built-in imagegen",
+  "transparent_background": false,
+  "images": [
+    {
+      "file": "hero-turtle.png",
+      "title": "封面海龟",
+      "prompt": "Use case: stylized-concept. Asset type: 16:9 PowerPoint cover background for a Chinese university ROS 2 turtle robotics lecture. Create a premium cinematic 3D illustration of one refined robotic turtle, ivory ceramic shell with subtle metallic blue joints, on the RIGHT half, following a luminous cyan curved trajectory over a deep Prussian blue scientific grid. Shell design subtly suggests modular robotics, friendly but sophisticated, not a toy or cartoon character. Dark navy #06244B on left 45 percent with perfectly quiet space for large editable typography. Palette university royal blue #00438B, cyan, ivory. Macro details, restrained illumination, soft atmospheric depth, editorial science magazine art, beautiful material texture. Landscape 16:9. No text, no letters, no logo, no watermark. This is a conceptual illustration, not a photograph of an actual robot."
+    },
+    {
+      "file": "rover-sensor.png",
+      "title": "感知小车",
+      "prompt": "Use case: stylized-concept. Asset type: landscape support illustration for a university robotics software lecture slide. A precise elegant studio 3D visualization of a small two-wheel autonomous rover with a camera and compact lidar, white ceramic body and exposed tasteful blue circuitry, positioned to the RIGHT of center. Subtle translucent sensing cone and points on a blue floor suggest sensor input, without labels or arrows. Left half mostly soft ivory white #F5F7FC clean space. Restrained royal blue #00438B and cyan highlights, soft realistic shadows, sophisticated science editorial aesthetic, visibly conceptual 3D visualization. Wide 16:9 frame. Avoid sci-fi humanoids, clutter, text, letters, UI panels, logos, watermark."
+    },
+    {
+      "file": "message-network.png",
+      "title": "消息网络",
+      "prompt": "Use case: stylized-concept. Asset type: 16:9 full-bleed lecture background for ROS messages. Create a sophisticated abstract 3D scene of luminous fine blue fiber strands and a few crystalline glass spheres connected across the RIGHT 55 percent, representing distributed robot software communication. Organic flowing curved connections, royal blue and cool cyan, elegant refraction, depth and precise light, not a literal technical diagram. Left 45 percent clean pale ivory #F5F7FC, fading naturally into the image so large dark blue typography can be added. Restrained institutional scientific visual style, no text, no numbers, no logos, no watermark, no dashboard."
+    },
+    {
+      "file": "orbital-turtle.png",
+      "title": "圆形轨迹",
+      "prompt": "Use case: stylized-concept. Asset type: 16:9 robotics lecture supporting illustration about circular motion. Premium top-down oblique 3D illustration of a small ivory robotic turtle on the RIGHT side of a blue plane, leaving one clear luminous circular trajectory around an empty center. Circle visibly closed and clean, no random extra rings. Subtle scientific grid, delicate cyan trail, soft volumetric glow, polished ceramic and blue metal. LEFT 42 percent quiet deep navy #06244B for large formulas, with minimal atmospheric gradient. Science magazine quality, concept illustration only, no labels, no arrows, no letters, no logos, no watermark. Wide 16:9."
+    }
+  ]
+}
